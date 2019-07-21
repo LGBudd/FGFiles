@@ -1,1 +1,14 @@
-
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="ga" name="Ramp_Start_1" lat="N45 51.862025" lon="W84 38.144426" heading="345.01"  radius="10" airlineCodes="" />
+        <Parking index="1" type="ga" name="Ramp_Start_2" lat="N45 51.850870" lon="W84 38.039501" heading="345.22"  radius="10" airlineCodes="" />
+        <Parking index="2" type="ga" name="Ramp_Start_3" lat="N45 51.843283" lon="W84 38.148599" heading="345.63"  radius="10" airlineCodes="" />
+        <Parking index="3" type="ga" name="Ramp_Start_4" lat="N45 51.850852" lon="W84 38.106732" heading="345.89"  radius="10" airlineCodes="" />
+        <Parking index="4" type="ga" name="Ramp_Start_5" lat="N45 51.848940" lon="W84 38.117312" heading="345.45"  radius="10" airlineCodes="" />
+        <Parking index="5" type="ga" name="Ramp_Start_6" lat="N45 51.847043" lon="W84 38.127802" heading="345.31"  radius="10" airlineCodes="" />
+        <Parking index="6" type="ga" name="Hold_Short_Rwy_8" lat="N45 51.796642" lon="W84 38.606002" heading="-26.2"  radius="10" airlineCodes="" />
+        <Parking index="7" type="ga" name="Hold_Short_Rwy_26" lat="N45 51.940405" lon="W84 37.821122" heading="-6.19"  radius="10" airlineCodes="" />
+ </parkingList>
+</groundnet>
