@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+  <jetway n="0">
+    <model type="string">generic</model>
+    <gate type="string">B</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">46.3498066</latitude-deg>
+    <longitude-deg type="double">-87.38777833</longitude-deg>
+    <elevation-m type="double">0</elevation-m>
+    <heading-deg type="double">212</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">16</jetway-extension-m>
+      <jetway-heading-deg type="double">21</jetway-heading-deg>
+      <jetway-pitch-deg type="double">4</jetway-pitch-deg>
+      <entrance-heading-deg type="double">68</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="1">
+    <model type="string">generic</model>
+    <gate type="string">A</gate>
+    <door type="int">0</door>
+    <airline type="string">DAL</airline>
+    <latitude-deg type="double">46.34961322</latitude-deg>
+    <longitude-deg type="double">-87.38804241</longitude-deg>
+    <elevation-m type="double">0</elevation-m>
+    <heading-deg type="double">328</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">16</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">4</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+</PropertyList>
