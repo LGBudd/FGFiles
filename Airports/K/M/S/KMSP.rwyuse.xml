@@ -20,16 +20,14 @@
   </gen>
 <!-- commercial schedule -->
 <schedule name="day">
-  <takeoff> 17, 35, 12L, 12R, 30R, 30L</takeoff>
-  <takeoff> 35, 17, 12R, 12L, 30L, 30R</takeoff>
-  <landing> 17, 35, 12R, 12L, 30L, 30R</landing>
-  <landing> 17, 35, 12L, 12R, 30R, 30L</landing>
+  <takeoff> 12L, 12R, 30R, 30L, 09, 27, 17, 35</takeoff>
+  <landing> 12R, 12L, 30L, 30R, 09, 27, 17, 35</landing>
 </schedule>
 
 <!-- general schedule -->
 <schedule name="general">
-  <takeoff>17, 35, 12R, 30L</takeoff>
-  <landing>17, 35, 12R, 30L</landing>
+  <takeoff>17, 35, 12R, 30L, 09, 27</takeoff>
+  <landing>17, 35, 12R, 30L, 09, 27</landing>
 </schedule>
 
 </rwyuse>
